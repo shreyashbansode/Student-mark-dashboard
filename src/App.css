@@ -1,0 +1,27 @@
+.red{
+    background-color: rgb(255, 0, 0);
+    color: white;
+ }
+ .green{
+    background-color: lime;
+    color: black;
+ }
+ .yello{
+    background-color: yellow;
+    color: black;
+ }
+
+ .searchbx input{
+   width: 50%;
+   text-align: center;
+   border-radius: 55px 55px;
+   height: 40px;
+ }
+
+ .searchbx{
+   display: flex;
+    justify-content: center;
+    align-items: center;
+  
+
+ }

@@ -1,0 +1,56 @@
+.main-container{
+
+
+    display:flex;
+    justify-content:center;
+    margin:100px;
+   
+}
+
+.btnprimary{
+ float:right;
+ margin:50px;
+}
+
+
+
+.d_flex{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.d_flex input{
+    margin: 10px;
+    width: 50%;
+}
+
+
+
+.btn-center{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.std{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+/*---------------------------------------------------AddUser ----------------------------------*/
+
+
+
+.margin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 50px;
+}
+
